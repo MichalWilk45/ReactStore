@@ -1,0 +1,19 @@
+.payment-method {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .payment-method h3 {
+    margin-bottom: 10px;
+  }
+  
+  .payment-method label {
+    display: block;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  .payment-method input[type="radio"] {
+    margin-right: 10px;
+  }
+  
